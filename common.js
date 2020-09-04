@@ -1,4 +1,5 @@
 
 module.exports = {
-    mainUrl: "https://www.digikala.com/"
+    digikalaUrl: "https://www.digikala.com/",
+    aliExpressUrl: "https://www.aliexpress.com/wholesale?catId=0&SearchText=battery"
 }
